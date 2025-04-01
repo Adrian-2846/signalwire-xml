@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="woman" language="es-MX">
+    Atención. Se requiere intervención humana en el chat de Chatwoot. Por favor ingrese al sistema.
+  </Say>
+</Response>
